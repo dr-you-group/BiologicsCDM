@@ -1,0 +1,201 @@
+targetId,comparatorId,outcomeId,outcomeName,type
+1439,1440,434165,Abnormal cervical smear,outcome
+1439,1440,436409,Abnormal pupil,outcome
+1439,1440,199192,Abrasion and/or friction burn of trunk without infection,outcome
+1439,1440,4088290,Absence of breast,outcome
+1439,1440,4092879,Absent kidney,outcome
+1439,1440,44783954,Acid reflux,outcome
+1439,1440,75911,Acquired hallux valgus,outcome
+1439,1440,77965,Acquired trigger finger,outcome
+1439,1440,4103640,Amputated foot,outcome
+1439,1440,133655,Burn of forearm,outcome
+1439,1440,73560,Calcaneal spur,outcome
+1439,1440,434327,Cannabis abuse,outcome
+1439,1440,4213540,Cervical somatic dysfunction,outcome
+1439,1440,140842,Changes in skin texture,outcome
+1439,1440,81378,Chondromalacia of patella,outcome
+1439,1440,432303,Cocaine abuse,outcome
+1439,1440,78619,Contusion of knee,outcome
+1439,1440,76786,Derangement of knee,outcome
+1439,1440,4115402,Difficulty sleeping,outcome
+1439,1440,45757370,Disproportion of reconstructed breast,outcome
+1439,1440,433111,Effects of hunger,outcome
+1439,1440,4170770,Epidermoid cyst,outcome
+1439,1440,259995,Foreign body in orifice,outcome
+1439,1440,40481632,Ganglion cyst,outcome
+1439,1440,4166231,Genetic predisposition,outcome
+1439,1440,433577,Hammer toe,outcome
+1439,1440,4231770,Hereditary thrombophilia,outcome
+1439,1440,4012570,High risk sexual behavior,outcome
+1439,1440,4012934,Homocystinuria,outcome
+1439,1440,374375,Impacted cerumen,outcome
+1439,1440,4344500,Impingement syndrome of shoulder region,outcome
+1439,1440,139099,Ingrowing nail,outcome
+1439,1440,444132,Injury of knee,outcome
+1439,1440,196168,Irregular periods,outcome
+1439,1440,432593,Kwashiorkor,outcome
+1439,1440,434203,Late effect of contusion,outcome
+1439,1440,438329,Late effect of motor vehicle accident,outcome
+1439,1440,4083487,Macular drusen,outcome
+1439,1440,4209423,Nicotine dependence,outcome
+1439,1440,377572,Noise effects on inner ear,outcome
+1439,1440,136368,Non-toxic multinodular goiter,outcome
+1439,1440,140648,Onychomycosis due to dermatophyte,outcome
+1439,1440,438130,Opioid abuse,outcome
+1439,1440,4091513,Passing flatus,outcome
+1439,1440,373478,Presbyopia,outcome
+1439,1440,439790,Psychalgia,outcome
+1439,1440,81634,Ptotic breast,outcome
+1439,1440,380706,Regular astigmatism,outcome
+1439,1440,36713918,Somatic dysfunction of lumbar region,outcome
+1439,1440,443172,"Splinter of face, without major open wound",outcome
+1439,1440,81151,Sprain of ankle,outcome
+1439,1440,378427,Tear film insufficiency,outcome
+1439,1440,437264,Tobacco dependence syndrome,outcome
+1439,1440,140641,Verruca vulgaris,outcome
+1439,1440,4115367,Wrist joint pain,outcome
+1439,1440,440193,Wristdrop,outcome
+1439,1440,36714689,Somatic dysfunction of pubic region,outcome
+1439,1440,36684444,Vertebral joint pain,outcome
+1439,1440,373489,Congenital nystagmus,outcome
+1439,1440,4339029,Double depressor palsy,outcome
+1439,1440,45763909,Acute disruption of ankle syndesmosis,outcome
+1439,1440,377575,Tinnitus,outcome
+1439,1440,4101079,Middle ear finding,outcome
+1439,1440,37110444,Harmful pattern of use of nicotine,outcome
+1439,1440,4115107,Mass of female genital structure,outcome
+1439,1440,37209383,Lesion of left ovary,outcome
+1439,1440,4182278,Hypermethioninemia,outcome
+1439,1440,4128221,Microalbuminuric diabetic nephropathy,outcome
+1439,1440,4128528,Asymptomatic proteinuria,outcome
+1439,1440,4108466,Burn of respiratory tract,outcome
+1439,1440,4293712,Traumatic oral ulceration,outcome
+1439,1440,4278836,Ulcer on tongue,outcome
+1439,1440,4110491,Fistula of nasal sinus,outcome
+1439,1440,4051613,Sulcus vocalis of vocal cord,outcome
+1439,1440,78830,Post-dysenteric arthropathy,outcome
+1439,1440,141055,Cancrum oris,outcome
+1439,1440,4100822,Cobalamin deficiency,outcome
+1439,1440,44813944,Vitamin D insufficiency,outcome
+1439,1440,436941,Hypervitaminosis A,outcome
+1439,1440,442136,Neoplasm of uncertain behavior of trachea,outcome
+1439,1440,4153106,Abscess of breast,outcome
+1439,1440,4159151,Posthemorrhagic hydrocephalus,outcome
+1439,1440,4002836,Postoperative hemorrhage,outcome
+1439,1440,137820,Postoperative hypothyroidism,outcome
+1439,1440,438178,Postmastectomy lymphedema syndrome,outcome
+1439,1440,4010333,Postmenopausal osteoporosis,outcome
+1439,1440,436676,Posttraumatic stress disorder,outcome
+1439,1440,4084433,Fracture of posterior malleolus,outcome
+1439,1440,37311762,Posterior hypospadias,outcome
+1439,1440,441669,Congenital anomaly of posterior segment of eye,outcome
+1439,1440,4335808,Injury of posterior cruciate ligament,outcome
+1439,1440,4140963,Anorectal anomaly,outcome
+1439,1440,4028847,Congenital duplication of stomach,outcome
+1439,1440,4005447,Congenital pyloric stenosis,outcome
+1439,1440,375824,Abnormal auditory perception,outcome
+1439,1440,374053,Sudden hearing loss,outcome
+1439,1440,76685,Myasthenia gravis,outcome
+1439,1440,4237155,Eaton-Lambert syndrome,outcome
+1439,1440,374912,Leukodystrophy,outcome
+1439,1440,4229262,Wilson's disease,outcome
+1384,1385,434165,Abnormal cervical smear,outcome
+1384,1385,436409,Abnormal pupil,outcome
+1384,1385,199192,Abrasion and/or friction burn of trunk without infection,outcome
+1384,1385,4088290,Absence of breast,outcome
+1384,1385,4092879,Absent kidney,outcome
+1384,1385,44783954,Acid reflux,outcome
+1384,1385,75911,Acquired hallux valgus,outcome
+1384,1385,77965,Acquired trigger finger,outcome
+1384,1385,4103640,Amputated foot,outcome
+1384,1385,133655,Burn of forearm,outcome
+1384,1385,73560,Calcaneal spur,outcome
+1384,1385,434327,Cannabis abuse,outcome
+1384,1385,4213540,Cervical somatic dysfunction,outcome
+1384,1385,140842,Changes in skin texture,outcome
+1384,1385,81378,Chondromalacia of patella,outcome
+1384,1385,432303,Cocaine abuse,outcome
+1384,1385,78619,Contusion of knee,outcome
+1384,1385,76786,Derangement of knee,outcome
+1384,1385,4115402,Difficulty sleeping,outcome
+1384,1385,45757370,Disproportion of reconstructed breast,outcome
+1384,1385,433111,Effects of hunger,outcome
+1384,1385,4170770,Epidermoid cyst,outcome
+1384,1385,259995,Foreign body in orifice,outcome
+1384,1385,40481632,Ganglion cyst,outcome
+1384,1385,4166231,Genetic predisposition,outcome
+1384,1385,433577,Hammer toe,outcome
+1384,1385,4231770,Hereditary thrombophilia,outcome
+1384,1385,4012570,High risk sexual behavior,outcome
+1384,1385,4012934,Homocystinuria,outcome
+1384,1385,374375,Impacted cerumen,outcome
+1384,1385,4344500,Impingement syndrome of shoulder region,outcome
+1384,1385,139099,Ingrowing nail,outcome
+1384,1385,444132,Injury of knee,outcome
+1384,1385,196168,Irregular periods,outcome
+1384,1385,432593,Kwashiorkor,outcome
+1384,1385,434203,Late effect of contusion,outcome
+1384,1385,438329,Late effect of motor vehicle accident,outcome
+1384,1385,4083487,Macular drusen,outcome
+1384,1385,4209423,Nicotine dependence,outcome
+1384,1385,377572,Noise effects on inner ear,outcome
+1384,1385,136368,Non-toxic multinodular goiter,outcome
+1384,1385,140648,Onychomycosis due to dermatophyte,outcome
+1384,1385,438130,Opioid abuse,outcome
+1384,1385,4091513,Passing flatus,outcome
+1384,1385,373478,Presbyopia,outcome
+1384,1385,439790,Psychalgia,outcome
+1384,1385,81634,Ptotic breast,outcome
+1384,1385,380706,Regular astigmatism,outcome
+1384,1385,36713918,Somatic dysfunction of lumbar region,outcome
+1384,1385,443172,"Splinter of face, without major open wound",outcome
+1384,1385,81151,Sprain of ankle,outcome
+1384,1385,378427,Tear film insufficiency,outcome
+1384,1385,437264,Tobacco dependence syndrome,outcome
+1384,1385,140641,Verruca vulgaris,outcome
+1384,1385,4115367,Wrist joint pain,outcome
+1384,1385,440193,Wristdrop,outcome
+1384,1385,36714689,Somatic dysfunction of pubic region,outcome
+1384,1385,36684444,Vertebral joint pain,outcome
+1384,1385,373489,Congenital nystagmus,outcome
+1384,1385,4339029,Double depressor palsy,outcome
+1384,1385,45763909,Acute disruption of ankle syndesmosis,outcome
+1384,1385,377575,Tinnitus,outcome
+1384,1385,4101079,Middle ear finding,outcome
+1384,1385,37110444,Harmful pattern of use of nicotine,outcome
+1384,1385,4115107,Mass of female genital structure,outcome
+1384,1385,37209383,Lesion of left ovary,outcome
+1384,1385,4182278,Hypermethioninemia,outcome
+1384,1385,4128221,Microalbuminuric diabetic nephropathy,outcome
+1384,1385,4128528,Asymptomatic proteinuria,outcome
+1384,1385,4108466,Burn of respiratory tract,outcome
+1384,1385,4293712,Traumatic oral ulceration,outcome
+1384,1385,4278836,Ulcer on tongue,outcome
+1384,1385,4110491,Fistula of nasal sinus,outcome
+1384,1385,4051613,Sulcus vocalis of vocal cord,outcome
+1384,1385,78830,Post-dysenteric arthropathy,outcome
+1384,1385,141055,Cancrum oris,outcome
+1384,1385,4100822,Cobalamin deficiency,outcome
+1384,1385,44813944,Vitamin D insufficiency,outcome
+1384,1385,436941,Hypervitaminosis A,outcome
+1384,1385,442136,Neoplasm of uncertain behavior of trachea,outcome
+1384,1385,4153106,Abscess of breast,outcome
+1384,1385,4159151,Posthemorrhagic hydrocephalus,outcome
+1384,1385,4002836,Postoperative hemorrhage,outcome
+1384,1385,137820,Postoperative hypothyroidism,outcome
+1384,1385,438178,Postmastectomy lymphedema syndrome,outcome
+1384,1385,4010333,Postmenopausal osteoporosis,outcome
+1384,1385,436676,Posttraumatic stress disorder,outcome
+1384,1385,4084433,Fracture of posterior malleolus,outcome
+1384,1385,37311762,Posterior hypospadias,outcome
+1384,1385,441669,Congenital anomaly of posterior segment of eye,outcome
+1384,1385,4335808,Injury of posterior cruciate ligament,outcome
+1384,1385,4140963,Anorectal anomaly,outcome
+1384,1385,4028847,Congenital duplication of stomach,outcome
+1384,1385,4005447,Congenital pyloric stenosis,outcome
+1384,1385,375824,Abnormal auditory perception,outcome
+1384,1385,374053,Sudden hearing loss,outcome
+1384,1385,76685,Myasthenia gravis,outcome
+1384,1385,4237155,Eaton-Lambert syndrome,outcome
+1384,1385,374912,Leukodystrophy,outcome
+1384,1385,4229262,Wilson's disease,outcome
