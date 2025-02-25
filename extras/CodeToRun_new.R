@@ -1,11 +1,8 @@
-.libPaths("C:/Program Files/R/library_estimation")
-#renv::snapshot()
 #renv::status()
 #renv::restore()
 
 library(BiologicsCDMnew)
-Sys.setlocale(category = "LC_ALL", locale = "english")
-
+#Sys.setlocale(category = "LC_ALL", locale = "english")
 
 # Optional: specify where the temporary files (used by the Andromeda package) will be created:
 options(andromedaTempFolder = "C:/andromedaTemp")
@@ -14,13 +11,13 @@ options(andromedaTempFolder = "C:/andromedaTemp")
 maxCores <- parallel::detectCores()
 
 # The folder where the study intermediate and result files will be written:
-outputFolder <- "C:/Users/paul9/Rprojects/Biologics_results_20241030"
+outputFolder <- ""
 
 # Details for connecting to the server:
 connectionDetails <- DatabaseConnector::createConnectionDetails(dbms = "sql server",
-                                                                user = "paul9567",
-                                                                password = "Euez3yz!@#",
-                                                                server = "10.19.10.241")
+                                                                user = "",
+                                                                password = "",
+                                                                server = "")
 conn <- connect(connectionDetails)
 
 # The name of the database schema where the CDM data can be found:
@@ -53,14 +50,13 @@ execute(connectionDetails = connectionDetails,
         packageResults = TRUE,
         maxCores = maxCores)
 
-debug(runCohortMethod)
-
 resultsZipFile <- file.path(outputFolder, "export", paste0("Results_", databaseId, ".zip"))
 dataFolder <- file.path(outputFolder, "shinyData")
 
 # You can inspect the results if you want:
 prepareForEvidenceExplorer(resultsZipFile = resultsZipFile, dataFolder = dataFolder)
 launchEvidenceExplorer(dataFolder = dataFolder, blind = TRUE, launch.browser = FALSE)
+
 
 # Calculate dose reduction outcomes:
 runDoseReduction(connectionDetails = connectionDetails,
